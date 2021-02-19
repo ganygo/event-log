@@ -1,0 +1,25 @@
+{
+  "name": "ganygo-event-log",
+  "version": "1.0.0",
+  "description": "GanyGo event log helper module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ganygo/ganygo-event-log.git"
+  },
+  "keywords": [
+    "event",
+    "log",
+    "error",
+    "log"
+  ],
+  "author": "Gany Teq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganygo/ganygo-event-log/issues"
+  },
+  "homepage": "https://github.com/ganygo/ganygo-event-log#readme"
+}
